@@ -1,3 +1,3 @@
 datasciencecoursera
 ===================
-## Data Science Couse
+## Data Science Course message
